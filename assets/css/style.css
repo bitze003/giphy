@@ -1,0 +1,47 @@
+.jumbotron {
+    color: black;
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    
+    
+  
+}
+imageCon{
+    padding: 20px; 
+    margin-right: auto;
+    margin-left:auto;
+    display:inline-block; 
+    margin-top:2em;
+}
+.col-sm-12 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+ p {
+     font-size: 25px;
+    }
+
+.topicButton{
+    margin:5px;
+}
+#newTopic{margin-left:13px;}
+
+form {
+    margin-bottom: 20px;
+}
+
+
+
+
